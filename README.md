@@ -12,7 +12,7 @@ cargo run
 
 Then navigation to [http://localhost:8080/graphiql](http://localhost:8080/graphiql) 
 
-# Query 
+Query 
 
 ```graphql
 {
@@ -24,7 +24,7 @@ Then navigation to [http://localhost:8080/graphiql](http://localhost:8080/graphi
 
 ```
 
-# Mutation
+Mutation
 
 ```graphql
 mutation{
